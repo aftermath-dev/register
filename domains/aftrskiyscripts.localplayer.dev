@@ -1,0 +1,15 @@
+{
+    "description": "Aftrskiy Source Codes",
+    "domain": "localplayer.dev",
+    "subdomain": "aftrskiyscripts",
+
+    "owner": {
+        "email": "aftermath1488@onionmail.org"
+    },
+
+    "record": {
+      
+    },
+
+    "proxied": false
+}
